@@ -4,8 +4,8 @@ Human Centered Design is een methode om gebruiksvriendelijke interactieve toepas
 
 --- 
 
-## Live link
-- insert link
+## Check it out!
+[Live Link](https://hilal-tapan.github.io/human-centered-design-2223/html/index.html)
 
 ---
 
@@ -45,11 +45,69 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 
 
 # Testen
+## Introductie interview met Petra
+Bent u blind geboren of blind geworden ?
+ Geboren
+Hoe ziet uw dagelijks leven eruit?
+ Gewoon naar werk met ov, soms thuis, soms op kantoor. Bij cliëntenbelang Amsterdam.
+Wat is uw gedachte bij een virtuele kledingkast?
+ 
+Hoe kiest u nu uw kleding?
+ Sommige stukken zijn makkelijk te identificeren op bijvoorbeeld gevoel, maar bijvoorbeeld hemden of panties zijn lastiger uit elkaar te halen.
+Waaraan identificeert u uw kledingstukken?
+Stof, vorm
+Krijgt u veel hulp thuis ? If i may ask
+ Nee, is meestal niet nodig, behalve bij twijfel.
+Wat zijn uw irritaties aan applicaties/website met uw screen reader?
+ Hangt heel erg van de site af, soms is het helemaal niet toegankelijk. Soms komen er popups in de weg, knoppen hebben geen tekst / label.
+Vindt u het gebruik van een mobiel fijn?(En welke telefoon heeft u?) Zo nee wat gebruikt u dan als alternatief?
+Ja
+Heeft u op het web een ervaring gehad wat u echt fijn vond en uw beperking helemaal ondersteunde?
+ Zoeken in google, gebruikt vaker / liever apps dan websites. Websites doen vaak veel verschillende dingen dus minder overzicht. Apps doen meestal 1 ding goed. Goede website: lovely.com 
+Maakt u gebruik van siri en wat vind u ervan
+Niet zo vaak, is heel traag of suf, heeft thuis wel een google nest. Gebruikt ze vooral voor de thermostaat, die digitaal is
+Heeft u zelf misschien ideeën of voorkeur naar een oplossing?
+ Nee
+Specifieke kleuren, licht of donker bruin? Pattroon herkenning.
+
+
+
+
+
+---
+
 ## Test 1
-- voorbereiding
-- uitkomsten
+### Voorbereiding
+Als voorbereiding heb ik een testplan opgesteld zodat ik zo goed mogelijk kan testen met Petra. 
+- insert testplan 
+
+### Tijdens de test
+* Ze gaat er prima doorheen alleen die screenreader van apple is heel vervelend met al die extra tekst, er word veel extra informatie gegeven door de Apple screenreader.
+* Moest paar keer zeggen welke knop waar zit op de macbook en hoe ze erdoorheen moet met deze screenreader.
+* Het is Petra gelukt tot de laatste pagina te komen.
+* Petra's feedback: Hoe weet ik of ik een rode top met groene broek kan combineren?
+* Ze kijkt niet echt naar kleuren wat ze weet niet hoe deze kleuren eruit zien omdat ze sinds geboorte blind is.
+* Ze wil vooral weten of iets bij elkaar kan.
+* Misschien kunnen delen? Zodat ze weet of dit bij elkaar kan, soort second opinie.
+* Dan moet je wel weer iemand iets gaan vragen en dit vond ze zelf vervelend gaf ze aan in het begin en hierdoor spreekt ze zichzelf een beetje tegen. 
+* Bepaalde dingen kunnen absoluut niet samen, dit kan ik verbeteren en in het programmatje zetten.
+* Soms gooi je iets weg dus dan is het rot met de nummertjes opnieuw maken.
+* Misschien kan ik de locatie in haar kledingkast zetten ipv nummertjes?
+ 
+
+### Uitkomsten
+Ik merkte dat Petra door de app heen kwam, soms wat moeizaam wat vooral lag aan de screenreader. Ook moest ik, vooral in het begin, goed aangeven waar de knoppen op de macbook zaten. Petra gebruikt zelf namelijk een windows thuis.
+
+Daarnaast gaf ze aan dat ze niet weet hoe kleuren eruit zien. In mijn prototype had ze de keuze om zelf te kiezen welke kleuren ze wil aandoen en matchen maar ze weet dus helemaal niet wat bij elkaar past. Dit vind ik een hele goede waar ik zelf niet over na had gedacht. Ook gaf ze aan dat als ze hoort jurk met groene bloemetjes het niet specifiek genoeg is voor haar. Zijn het kleine bloemetjes? Grote bloemetjes? Welke kleur bloemetjes, etc. Voelen kan ze best en stoffen herkennen maar pattronen vind ze lastig. Daarnaast zou ze graag in het systeem willen weten als ze een rode trui kiest welke kleuren daar dan bijpassen. 
+
+Als laatste had ze haar twijfels over de nummertjes die per kledingstuk zijn gelabeld. Wat als ze een nieuw kledingstuk koopt? Of juist eentje weg doet. Dan moeten alle nummertjes aangepast worden want het is systematisch in haar kledingkast gezet zodat ze het makkelijk kan vinden. Dit vond ik ook een hele goede.
 
 ### Evaluatie
+Petra gebruikt zelf een screenreader voor windows die niet mogelijk is op macbook, een idee voor de volgende test is om iedereen op een windows te laten testen met haar eigen screenreader zodat we zo passend mogelijk ontwerpen voor Petra. Ook is dit fijn voor haar, dan hoeft ze niet continue te switchen van device en is het minder rommelig. De knoppen hoeft ze dan ook niet steeds opnieuw uit te vogelen en de snelheid van de screenreader blijft hetzelfde op deze manier. Dit zou ik graag bij de volgende test anders willen doen.
+
+Voor de volgende test wil ik nadenken over hoe ik het probleem met de kleuren matchen kan oplossen. Niet alleen de kleuren maar ook de pattronen etc.
+
+Ook moet ik gaan nadenken over hoe ik de locaties ga neerzetten, want de cijfertjes blijken toch niet zo een goed idee. Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
 
 ---
 
