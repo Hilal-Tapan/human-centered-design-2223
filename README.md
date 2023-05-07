@@ -59,6 +59,10 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 
 
 # Testen
+
+<details>
+  <summary> Introductie interview met Petra </summary>
+
 ## Introductie interview met Petra
 1. Bent u blind geboren of blind geworden ?
 - Geboren
@@ -93,7 +97,10 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 ### Evaluatie
 Wat wij merkten aan Petra is dat ze onwijs snel is met de screenreader! Ikzelf verstond geen eens wat er werd gezegt en zij wel. Ook gebruikt ze een volledig zwart scherm op haar iPhone, dit is voor batterij besparings modus. Ze gaf aan dat ze graag niet om hulp hoeft te vragen bij andere en het liefste zoveel mogelijk zelf wil doen. Ze heeft een app, wat een AI camera is. Als ze deze richt op dingen volgt er een omschrijving uit een soort AI screenreader. Super gaaf! We merkte wel dat ze moeite had met de camera richten. Thuis heeft ze hier een tentje voor waar ze haar telefoon in kan zetten en de brieven bijvoorbeeld in de tent. Het was heel interessant om Petra te interviewen en ik merk dat ik nu al ontzettend veel nieuws te horen heb gekregen over deze doelgroep en hoe zij te werk gaan dagelijkse dingen.
 
+</details>
+
 ---
+
 <details>
   <summary> Test 1</summary>
 
@@ -137,7 +144,6 @@ Als voorbereiding heb ik een testplan opgesteld zodat ik zo goed mogelijk kan te
 * Bepaalde dingen kunnen absoluut niet samen, dit kan ik verbeteren en in het programmatje zetten.
 * Soms gooi je iets weg dus dan is het rot met de nummertjes opnieuw maken.
 * Misschien kan ik de locatie in haar kledingkast zetten ipv nummertjes?
- 
 
 ### Uitkomsten
 Ik merkte dat Petra door de app heen kwam, soms wat moeizaam wat vooral lag aan de screenreader. Ook moest ik, vooral in het begin, goed aangeven waar de knoppen op de macbook zaten. Petra gebruikt zelf namelijk een windows thuis.
@@ -160,6 +166,7 @@ Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
 </details>
 
 ---
+
 <details>
   <summary> Test 2</summary>
 
@@ -171,6 +178,7 @@ Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
 
 
 </details>
+
 ---
 
 ## Week 3
