@@ -30,8 +30,8 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 * Weet niet welke kleuren bij elkaar passen
 
 ---
-
-# Hoe installeer je dit project?
+# Installatie
+## Hoe installeer je dit project?
 - 
 - 
 - 
