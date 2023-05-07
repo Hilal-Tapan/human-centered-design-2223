@@ -160,6 +160,8 @@ Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
 </details>
 
 ---
+<details>
+  <summary> Test 2</summary>
 
 ## Test 2
 - voorbereiding
@@ -167,6 +169,8 @@ Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
 
 ### Evaluatie
 
+
+</details>
 ---
 
 ## Week 3
