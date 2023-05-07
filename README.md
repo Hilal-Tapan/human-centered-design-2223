@@ -97,11 +97,32 @@ Wat wij merkten aan Petra is dat ze onwijs snel is met de screenreader! Ikzelf v
 
 ## Test 1
 ### Voorbereiding
-Als voorbereiding heb ik een testplan opgesteld zodat ik zo goed mogelijk kan testen met Petra. 
-- insert testplan 
-- insert XD ontwerp 
-- insert beschrijving van je test ontwerp
+Mijn idee is een soort digitale navigatie waar petra haar keuzes kan doorgeven voor wat voor kledingstuk zij naar opzoek is. Hieruit krijgt zij een nummertjes die zijn gekoppeld aan de kledingstukken. Deze nummertjes kan ze terugvinden in haar kledingkast/ of aan de kledingstukken zelf.
+
 - Beschrijf wat je test specifiek (navigatie)
+Ik wil voor deze test in zijn specifiek de navigatie testen met Petra. Kijken of ze erdoorheen komt en of de screenreader zijn werk doet. 
+
+Om deze test uit te kunnen voeren heb ik een prototype gemaakt. Ik heb het ook een styling gegeven voor nu, zodat ik voor mezelf even visueel inzichtje heb.
+
+#### Test 1 prototype
+![1](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/1.png)
+1. Als eerste kom je op de startpagina en hier krijgt je de keuze of je op kleuren wil sorteren of op stijl.
+
+![2.1](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/2.1.png)
+2. Mocht je kleur gekozen hebben kan je een keuze maken tussen de kleur waarvoor je gaat.
+
+![2.2](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/2.2.png)
+3. Mocht je stijl gekozen hebben kan je een keuze maken tussen de stijlen waarvoor je gaat.
+
+![3](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/3.png)
+4. Als je een van die keuzes hebt gemaakt kun je het kledingstuk type kiezen, in dit geval bovenkant, onderkant en asseccoires.
+
+![4](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/4.png)
+5. Als je een kledingstuk type keuze hebt gemaakt krijg je allemaal nummertjes van items die de gekozen labels hebben. Dit nummertje kun je opzoeken in je kledingkast. (uiteraard is dat in braille taal)
+
+
+Als voorbereiding heb ik een testplan opgesteld zodat ik zo goed mogelijk kan testen met Petra. 
+- insert testplan ?
 
 ### Tijdens de test
 * Ze gaat er prima doorheen alleen die screenreader van apple is heel vervelend met al die extra tekst, er word veel extra informatie gegeven door de Apple screenreader.
@@ -129,7 +150,11 @@ Petra gebruikt zelf een screenreader voor windows die niet mogelijk is op macboo
 
 Voor de volgende test wil ik nadenken over hoe ik het probleem met de kleuren matchen kan oplossen. Niet alleen de kleuren maar ook de pattronen etc.
 
-Ook moet ik gaan nadenken over hoe ik de locaties ga neerzetten, want de cijfertjes blijken toch niet zo een goed idee. Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
+Ook moet ik gaan nadenken over hoe ik de locaties ga neerzetten, want de cijfertjes blijken toch niet zo een goed idee. 
+
+Daarnaast merkte ik zelf dat ik helemaal geen titels had gezet op de paginas en Petra een beetje moest uitvogelen waar de pagina om ging. Dus voor itheratie zal ik h1's/h2's etc toevoegen om het duidelijker te maken voor haar.
+
+Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
 
 ---
 
