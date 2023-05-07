@@ -46,33 +46,38 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 
 # Testen
 ## Introductie interview met Petra
-Bent u blind geboren of blind geworden ?
- Geboren
-Hoe ziet uw dagelijks leven eruit?
- Gewoon naar werk met ov, soms thuis, soms op kantoor. Bij cliëntenbelang Amsterdam.
-Wat is uw gedachte bij een virtuele kledingkast?
+1. Bent u blind geboren of blind geworden ?
+- Geboren
+
+2. Hoe ziet uw dagelijks leven eruit?
+- Gewoon naar werk met ov, soms thuis, soms op kantoor. Bij cliëntenbelang Amsterdam.
  
-Hoe kiest u nu uw kleding?
- Sommige stukken zijn makkelijk te identificeren op bijvoorbeeld gevoel, maar bijvoorbeeld hemden of panties zijn lastiger uit elkaar te halen.
-Waaraan identificeert u uw kledingstukken?
-Stof, vorm
-Krijgt u veel hulp thuis ? If i may ask
- Nee, is meestal niet nodig, behalve bij twijfel.
-Wat zijn uw irritaties aan applicaties/website met uw screen reader?
- Hangt heel erg van de site af, soms is het helemaal niet toegankelijk. Soms komen er popups in de weg, knoppen hebben geen tekst / label.
-Vindt u het gebruik van een mobiel fijn?(En welke telefoon heeft u?) Zo nee wat gebruikt u dan als alternatief?
-Ja
-Heeft u op het web een ervaring gehad wat u echt fijn vond en uw beperking helemaal ondersteunde?
- Zoeken in google, gebruikt vaker / liever apps dan websites. Websites doen vaak veel verschillende dingen dus minder overzicht. Apps doen meestal 1 ding goed. Goede website: lovely.com 
-Maakt u gebruik van siri en wat vind u ervan
-Niet zo vaak, is heel traag of suf, heeft thuis wel een google nest. Gebruikt ze vooral voor de thermostaat, die digitaal is
-Heeft u zelf misschien ideeën of voorkeur naar een oplossing?
- Nee
-Specifieke kleuren, licht of donker bruin? Pattroon herkenning.
+3. Hoe kiest u nu uw kleding?
+- Sommige stukken zijn makkelijk te identificeren op bijvoorbeeld gevoel, maar bijvoorbeeld hemden of panties zijn lastiger uit elkaar te halen.
 
+4. Waaraan identificeert u uw kledingstukken?
+- Stof, vorm.
 
+5. Krijgt u veel hulp thuis?
+- Nee, is meestal niet nodig, behalve bij twijfel.
 
+6. Wat zijn uw irritaties aan applicaties/website met uw screen reader?
+- Hangt heel erg van de site af, soms is het helemaal niet toegankelijk. Soms komen er popups in de weg, knoppen hebben geen tekst / label.
 
+7. Vindt u het gebruik van een mobiel fijn?(En welke telefoon heeft u?) Zo nee wat gebruikt u dan als alternatief?
+- Ja, ik gebruik een iphone.
+
+8. Heeft u op het web een ervaring gehad wat u echt fijn vond en uw beperking helemaal ondersteunde?
+- Zoeken in google, gebruikt vaker / liever apps dan websites. Websites doen vaak veel verschillende dingen dus minder overzicht. Apps doen meestal 1 ding goed. Goede website: lovely.com 
+
+9. Maakt u gebruik van siri en wat vind u ervan
+- Niet zo vaak, is heel traag of suf, heeft thuis wel een google nest. Gebruikt ze vooral voor de thermostaat, die digitaal is.
+
+10. Heeft u zelf misschien ideeën of voorkeur naar een oplossing?
+- Nee niet echt, dit is volledig aan jullie
+
+### Evaluatie
+Wat wij merkten aan Petra is dat ze onwijs snel is met de screenreader! Ikzelf verstond geen eens wat er werd gezegt en zij wel. Ook gebruikt ze een volledig zwart scherm op haar iPhone, dit is voor batterij besparings modus. Ze gaf aan dat ze graag niet om hulp hoeft te vragen bij andere en het liefste zoveel mogelijk zelf wil doen. Ze heeft een app, wat een AI camera is. Als ze deze richt op dingen volgt er een omschrijving uit een soort AI screenreader. Super gaaf! We merkte wel dat ze moeite had met de camera richten. Thuis heeft ze hier een tentje voor waar ze haar telefoon in kan zetten en de brieven bijvoorbeeld in de tent. Het was heel interessant om Petra te interviewen en ik merk dat ik nu al ontzettend veel nieuws te horen heb gekregen over deze doelgroep en hoe zij te werk gaan dagelijkse dingen.
 
 ---
 
