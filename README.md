@@ -1,6 +1,6 @@
 # Human Centered Design @cmda-minor-web 2022 - 2023
-Voor het vak Human Centered design bij de minor Web Development krijgen we de opdracht om een oplossing te ontwerpen voor iemand met een beperking die tegen een probleem aanloopt. Er zijn verschillende cases en het is belangrijk dat we de gebruiker leren begrijpen en dat diegene centraal staat in het ontwerp. 
-Human Centered Design is een methode om gebruiksvriendelijke interactieve toepassingen te ontwerpen.
+In het vak Human Centered Design richten we ons op het ontwerpen van producten die gericht zijn op echte mensen.
+Voor dit vak krijgen we de opdracht om een oplossing te ontwerpen voor iemand met een beperking die tegen een probleem aanloopt. Er zijn verschillende cases en het is belangrijk dat we de gebruiker leren begrijpen en dat diegene centraal staat in het ontwerp. Het doel is dus om ons te verdiepen in de persoon van de gekozen casus en veel te testen met hen.
 
 --- 
 
@@ -32,14 +32,28 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 ---
 
 # Hoe installeer je dit project?
+- 
+- 
+- 
+- 
+- 
 
 ---
 
 ## Hoe gebruik je dit project?
+- 
+- 
+- 
+- 
+- 
 
 ---
 
 ## Features
+* Kan kleding kiezen op basis van gelegenheid
+* Kan kleding matchen met elkaar
+* Kan de locatie zien van de gekozen items
+* Screenreader friendly
 
 ---
 
@@ -85,6 +99,9 @@ Wat wij merkten aan Petra is dat ze onwijs snel is met de screenreader! Ikzelf v
 ### Voorbereiding
 Als voorbereiding heb ik een testplan opgesteld zodat ik zo goed mogelijk kan testen met Petra. 
 - insert testplan 
+- insert XD ontwerp 
+- insert beschrijving van je test ontwerp
+- Beschrijf wat je test specifiek (navigatie)
 
 ### Tijdens de test
 * Ze gaat er prima doorheen alleen die screenreader van apple is heel vervelend met al die extra tekst, er word veel extra informatie gegeven door de Apple screenreader.
