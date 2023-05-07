@@ -94,12 +94,13 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 Wat wij merkten aan Petra is dat ze onwijs snel is met de screenreader! Ikzelf verstond geen eens wat er werd gezegt en zij wel. Ook gebruikt ze een volledig zwart scherm op haar iPhone, dit is voor batterij besparings modus. Ze gaf aan dat ze graag niet om hulp hoeft te vragen bij andere en het liefste zoveel mogelijk zelf wil doen. Ze heeft een app, wat een AI camera is. Als ze deze richt op dingen volgt er een omschrijving uit een soort AI screenreader. Super gaaf! We merkte wel dat ze moeite had met de camera richten. Thuis heeft ze hier een tentje voor waar ze haar telefoon in kan zetten en de brieven bijvoorbeeld in de tent. Het was heel interessant om Petra te interviewen en ik merk dat ik nu al ontzettend veel nieuws te horen heb gekregen over deze doelgroep en hoe zij te werk gaan dagelijkse dingen.
 
 ---
+<details>
+  <summary> Test 1</summary>
 
 ## Test 1
 ### Voorbereiding
 Mijn idee is een soort digitale navigatie waar petra haar keuzes kan doorgeven voor wat voor kledingstuk zij naar opzoek is. Hieruit krijgt zij een nummertjes die zijn gekoppeld aan de kledingstukken. Deze nummertjes kan ze terugvinden in haar kledingkast/ of aan de kledingstukken zelf.
 
-- Beschrijf wat je test specifiek (navigatie)
 Ik wil voor deze test in zijn specifiek de navigatie testen met Petra. Kijken of ze erdoorheen komt en of de screenreader zijn werk doet. 
 
 Om deze test uit te kunnen voeren heb ik een prototype gemaakt. Ik heb het ook een styling gegeven voor nu, zodat ik voor mezelf even visueel inzichtje heb.
@@ -120,7 +121,7 @@ Om deze test uit te kunnen voeren heb ik een prototype gemaakt. Ik heb het ook e
 ![4](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/4.png)
 5. Als je een kledingstuk type keuze hebt gemaakt krijg je allemaal nummertjes van items die de gekozen labels hebben. Dit nummertje kun je opzoeken in je kledingkast. (uiteraard is dat in braille taal)
 
-
+#### Testplan
 Als voorbereiding heb ik een testplan opgesteld zodat ik zo goed mogelijk kan testen met Petra. 
 - insert testplan ?
 
@@ -155,6 +156,8 @@ Ook moet ik gaan nadenken over hoe ik de locaties ga neerzetten, want de cijfert
 Daarnaast merkte ik zelf dat ik helemaal geen titels had gezet op de paginas en Petra een beetje moest uitvogelen waar de pagina om ging. Dus voor itheratie zal ik h1's/h2's etc toevoegen om het duidelijker te maken voor haar.
 
 Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
+
+</details>
 
 ---
 
