@@ -106,11 +106,13 @@ Wat wij merkten aan Petra is dat ze onwijs snel is met de screenreader! Ikzelf v
 
 ## Test 1
 ### Voorbereiding
+Als voorbereiding heb ik een testplan opgesteld zodat ik zo goed mogelijk kan testen met Petra. 
+
 Mijn idee is een soort digitale navigatie waar petra haar keuzes kan doorgeven voor wat voor kledingstuk zij naar opzoek is. Hieruit krijgt zij een nummertjes die zijn gekoppeld aan de kledingstukken. Deze nummertjes kan ze terugvinden in haar kledingkast/ of aan de kledingstukken zelf.
 
 Ik wil voor deze test in zijn specifiek de navigatie testen met Petra. Kijken of ze erdoorheen komt en of de screenreader zijn werk doet. 
 
-Om deze test uit te kunnen voeren heb ik een prototype gemaakt. Ik heb het ook een styling gegeven voor nu, zodat ik voor mezelf even visueel inzichtje heb.
+Om deze test uit te kunnen voeren heb ik een prototype gemaakt. Ik heb het ook een styling gegeven voor nu, zodat ik voor mezelf even visueel inzichtje heb. Ik zal aan Petra vragen of de door het navigatie menu heen wilt gaan en ik zal dit observeren hoe dit gaat. 
 
 #### Test 1 prototype
 ![1](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/1.png)
@@ -128,9 +130,6 @@ Om deze test uit te kunnen voeren heb ik een prototype gemaakt. Ik heb het ook e
 ![4](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/4.png)
 5. Als je een kledingstuk type keuze hebt gemaakt krijg je allemaal nummertjes van items die de gekozen labels hebben. Dit nummertje kun je opzoeken in je kledingkast. (uiteraard is dat in braille taal)
 
-#### Testplan
-Als voorbereiding heb ik een testplan opgesteld zodat ik zo goed mogelijk kan testen met Petra. 
-- insert testplan ?
 
 ### Tijdens de test
 * Ze gaat er prima doorheen alleen die screenreader van apple is heel vervelend met al die extra tekst, er word veel extra informatie gegeven door de Apple screenreader.
@@ -168,14 +167,35 @@ Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
 ---
 
 <details>
-  <summary> Test 2</summary>
+  <summary> Test 2 </summary>
 
 ## Test 2
-- voorbereiding
-- uitkomsten
+### Voorbereiding
+Als voorbereiding heb ik een testplan opgesteld zodat ik zo goed mogelijk kan testen met Petra. 
+
+De vorige keer was uit de test gekomen dat de nummertjes toch niet zo een goede optie waren omdat dit lastig is met toevoegen en verwijderen van items. Dit heb ik verbeterd dit keer met locaties in haar kledingkast i.p.v. nummertjes. Ook heb ik wat dingen verbeterd i.v.m. de screenreader. De vorige keer had ik helemaal geen titels gezet dus dit heb ik toegepast. Ik heb bij elke pagina nu een titel met waar het over gaat. Ook heb ik dit zelf getest met de apple screenreader en de google chrome screenreader. Diegene die zij gebruikt werkt helaas niet op macbook.
+
+Dit keer wil ik testen of ze al beter door de navigatie heengaat en of ze het concept al wat fijner vind.
+
+Ook leek het ons handig om dit keer tijdens het testen 1 device te gebruiken in plaats van de hele tijd switchen. We merkte de vorige keer dat ze daardoor steeds nieuwe knoppen moest gebruiken en steeds instructies nodig had. Dus we hebben besloten het allemaal op Ymaro's laptop te doen, die heeft een Windows en hij had dezelfde screenreader gedownload als Petra, namelijk NVDL.
+
+
+### Tijdens de test
+We gebruikte de laptop van Ymaro en in het begin vroeg Petra ff hoe wil je dat ik er doorheen ga? Na dit verteld te hebben ging ze er goed doorheen. Wat ik merkte was dat ook deze screenreader de heletijd een rondje maakte in de searchbalk etc. Dit was echt vervelend, maargoed. Dat is gewoon een screenreader dingetje gaf ze aan. 
+
+Uiteindelijk lukte het en ging ze naar kleuren. Ze ging verder goed door het menu heen.
+Ze gaf aan dat het erg handig is dat het programma weet wat die heeft en waar het ligt. Ook dat die weet wat je bij elkaar kan combineren. Ze vond deze itheratie veel beter dan die nummertjes. Ook vond ze het fijn dat ze nu te horen krijgt welke dingen bij elkaar passen en gecombineerd kunnen worden. Ze vond het erg leuk. Ze had niet echt feedback over het concept. Ik merkte dat sommige screenreader dingetjes vervelend werkte, zoals titels die niet werden opgelezen bijv, of extra informatie wat soms ontbrak. Ditis belangrijk om mee te nemen naar de volgende keer.
+
+Ze ging er goed doorheen, 1 heading las de screenreader niet op maar ik denk dat dit een tab probleem is. Dit moet ik nog ff nachecken.
+Ze vond dit idee beter dat het geen cijfertjes meer zijn maar een beschrijving van de locatie. Omdat ze nu als ze een nieuw item koopt ze het makkelijk kan toevoegen of verwijderen en locaties kan aanpassen. Ik heb het idee dat ze het een goed idee vond en de navigatie leek te begrijpen.
+
+
+### Uitkomsten
+Ik ben erg blij met de uitkomsten van de test. Het leek goed te gaan en Petra was enthousiast. Ze vond de locaties die gegeven worden per item fijn. Ook vond ze het erg fijn dat ze match keuzes krijgt. De vorige keer miste ze dit en dit had ik in haar feedback verwerkt. Ze kan nu dus items matchen met elkaar en ze krijgt locaties hieruit. 
 
 ### Evaluatie
-
+Ik vond het erg goed gaan. In het begin hadden we wel wat vervelende screenreader issues omdat geen van ons echt bekend was met NVDL en het duurde even met opstarten. Maar uiteindelijk ging het erg goed en heeft ze de test succesvol afgelegd. Ik vind nog wel dat ik sommige dingen nog gebruiksvriendelijker kan maken i.v.m. de screenreader. Dus dit zal ik meenemen uit deze test naar de eindoplevering. 
+Verder was ik blij dat Petra enthousiast was en vrijwel geen kritiek had over het concept. Dit is groenlicht voor mij om door te gaan met het concept!
 
 </details>
 
@@ -183,7 +203,15 @@ Dit zijn allemaal punten die ik zal meenemen naar de volgende test!
 
 ## Week 3
 ### Design principes
+- wat je hebt ontdekt enz
+- artikelen van vasilis meenemen
+- wat je hebt toegepast
+
 ### User needs
+- hoe het opgelost moet worden
+
+- add nonesense: "je ziet er mooi uit!", complimenten 
+
 
 ---
 
