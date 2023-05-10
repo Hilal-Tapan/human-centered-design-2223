@@ -30,22 +30,16 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 * Weet niet welke kleuren bij elkaar passen
 
 ---
+
 # Installatie
 ## Hoe installeer je dit project?
-- 
-- 
-- 
-- 
-- 
+1. Clone deze repo
+2. That's it!
 
 ---
 
 ## Hoe gebruik je dit project?
-- 
-- 
-- 
-- 
-- 
+Je hebt een screenreader nodig om dit project te gebruiken zoals Petra hem gebruikt. Maar in principe is die ook gewoon klikbaar.
 
 ---
 
@@ -54,6 +48,28 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 * Kan kleding matchen met elkaar
 * Kan de locatie zien van de gekozen items
 * Screenreader friendly
+
+---
+
+## User Scenario
+### Who? 
+Petra is blind sinds haar geboorte en haar zusje ook. Petra werkt bij Cliëntenbelang Amsterdam als beleidsmedewerker Toegankelijkheid en Mobiliteit, heeft een eigen vertaalbureau. Daarnaast is ze vrijwilliger bij de luisterlijn, sport en shopt graag. Shoppen doet ze vaak met iemand samen, die haar kan vertellen of iets haar mooi staat. Alhoewel Petra houdt er wel van om zoveel mogelijk alleen te kunnen doen, is dit haar bij het shoppen nog niet echt gelukt.
+
+
+### What? 
+Op dit moment vraagt Petra vaak aan haar man of iets bij elkaar past, maar meestal is hij aan het werk dus dan kan ze het niet vragen. Soms beld ze haar vriendinnen via facetime, maar die zijn ook niet altijd beschikbaar. Ook heeft ze veel moeite met het richten van de camera tijdens het facetimen. Ook zijn er veel dagen dat ze een gekke match maakt met kleding als niemand beschikbaar is. Soms voelt ze zich overdressed of underdressed, bij gelegenheden. Ze had het fijn gevonden als er iets is wat haar zou helpen bij het matchen van haar kleding.
+
+
+### How? 
+Bij het navigeren op technische devices gebruikt ze een aantal hulpmiddelen, waaronder een toetsenbord met braille regel en een screenreader. Deze apparaten zijn ontworpen om de informatie van visuele designs om te zetten naar voor haar bruikbare informatie. Maar daar gaat veel in verloren omdat niet alles om te zetten is, of heel erg omslachtig werkt. Ze maakt geen gebruik van Siri omdat ze deze sloom en irritant vindt. Wel van een Google home device, maar alleen voor de verwarming. 
+
+Omdat ze veel gebruik maakt van een screenreader op zowel haar pc als telefoon en smartwatch, wil ik een screenreader kledingmatcher voor haar maken. Deze matcher kan ze zelf kiezen voor welke gelegenheid ze zich kleed en krijgt verschillende match opties voor haar gekozen kledingstuk. 
+
+
+### Why?
+Er zijn veel blinde mensen op de wereld, Petra is niet de enige en door na te denken over dit soort problemen worden deze erkent. Het is belangrijk dat we bewust worden van de beperkingen die andere mensen hebben met hedendaagse dingen waar wij niet beperkte mensen eigenlijk nooit over nadenken. Dit kan erg frustrerend zijn voor de mensen die wel tegen deze problemen aanlopen. Hierdoor is het van belang dat wij nadenken over oplossingen voor hun om hun leven iets makkelijker te maken. 
+
+Petra gaf aan hier veel behoefte aan te hebben en dat ze het super zou vinden als hier iets voor komt. Ik hoop dat wij op deze manier een zaadje kunnen planten voor de toekomstige engineers/ developers/ ict'ers en de uitvindingen die zij zullen maken in de toekomst.
 
 ---
 
@@ -243,10 +259,6 @@ Ik denk dat Petra dit wel kan waarderen omdat ze zelf ook best wel van de grapje
 
 
 
-### User needs
-- hoe het opgelost moet worden
-
-
 ---
 
 # Eindproduct
@@ -257,4 +269,10 @@ Ik denk dat Petra dit wel kan waarderen omdat ze zelf ook best wel van de grapje
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+---
+
 ## Bronnen
+* https://exclusive-design.vasilis.nl/principles/ 
+* https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN0ERvfCZs9AkTYnjvbtVu1cjoU/edit# 
+* https://github.com/cmda-minor-web/human-centered-design-2223
+* 
