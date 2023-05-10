@@ -57,7 +57,6 @@ Je representatief kunnen kleding in verschillende omstandigheden is voor iederee
 
 ---
 
-
 # Testen
 
 <details>
@@ -201,21 +200,57 @@ Verder was ik blij dat Petra enthousiast was en vrijwel geen kritiek had over he
 
 ---
 
-## Week 3
-### Design principes
-- wat je hebt ontdekt enz
-- artikelen van vasilis meenemen
-- wat je hebt toegepast
+# Design principles
+1. Study situation: In order to become specialist designers for all kinds of people with all kinds of disabilities we have to study different, individual situations.
+
+2. Ignore conventions: The current conventions are designed by, and thus for, designers. Not all of these conventions work for non-designers. If we want to include non-designers, and especially people with disabilities, we should reconsider these conventions, after we studied their situations.
+
+3. Prioritise identity: Including excluded people into our design process, by seeing them as co-designers rather than study objects, can help in coming up with new, and relevant, conventions.
+
+4. Add nonsense: Designing for people with disabilities is in large part uncharted territory. Nonsense can be a useful tool to investigate the unkown. And it’s fun.
+
+
+## Study situation
+Voor dit principe heb ik de situatie van Petra onderzocht.
+Petra is blind sinds geboorte en dit beinvloed haar dagelijkse leven uiteraard. Ze gebruikt screenreaders om haar leven wat makkelijker te maken. Ze maakt gebruik van een laptop, iphone, smartwatch en google home device om haar verwarming de reguleren. Ze maakt gebruik van de screenreader NVDL op haar pc die ze razendsnel heeft staan, ze is hier echt heel goed in. Voor de iPhone en smartwatch gebruikt ze de screenreader van Apple zelf, ze gaf aan dat Apple heel advanced is met accesibility voor beperkten.
+
+Petra werkt bij Cliëntenbelang Amsterdam als beleidsmedewerker Toegankelijkheid en Mobiliteit, heeft een eigen vertaalbureau. Daarnaast is ze graag vrijwilliger bij de luisterlijn, ze shopt en sport graag.
+
+Op basis van al deze informatie heb ik een prototype voor haar gemaakt.
+
+
+## Ignore conventions
+- TO DO
+- is dit gelukt of mislukt
+- is dit aan bod gekomen in de test
+- aannamens die ik had maybe
+- ze vond het ingewikkeld
+- screenreader? heb je dit beter kunnen doen.
+- screenreader is heel moeilijk om te verbeteremn want je beheerst het niet.
+
+
+## Prioritise identity
+ Petra is blind sinds geboorte en dit heeft veel effect op haar dagelijkse taken. Een voorbeeld hiervan is kleding matchen, omdat ze het niet kan zien en ook nooit heeft kunnen zien. Ze vind shoppen erg leuk en ze doet dit meestal met iemand erbij die kan zeggen hoe iets eruit zien, daarnaast voelt ze veel aan de kledingstukken met haar handen. Maar alleen shoppen zit hem er niet in voor haar. Ze vind het thuis dus ook erg lastig om kleding te matchen want ze wilt het liefst zoveel mogelijk alleen kunnen doen. 
+
+ Ik heb voor Petra een kledingmatch app gemaakt waar ik zoveel mogelijk heb gekeken naar haar identiteit. Ik heb geluisterd naar haar wensen. Ze gaf aan dat ze behoorlijk chaotisch is van haarzelf en hierdoor heb ik de app zo gestructureerd mogelijk proberen te maken. 
+
+
+
+## Add nonsense
+Als nonesense heb ik gekeken naar Petra's persoonlijkheid. Ze is erg outgoing en houd wel van humor. Hierdoor heb ik besloten hier en daar wat grapjes toe te voegen in de app. Bij het maken van een leuke match krijgt ze complimentjes zoals: "Je zal er geweldig uitzien met deze match!". Bij het maken van een lelijke match krijgt ze grapjes van de screenreader zoals: "Vandaag gaan we zo te zien voor de clown look, ook leuk!". 
+
+Ik denk dat Petra dit wel kan waarderen omdat ze zelf ook best wel van de grapjes was, maar ook zocht ze veel validatie en daarom denk ik dat de combinatie van de complimenten en grapjes een goede balans is voor Petra.
+
+
 
 ### User needs
 - hoe het opgelost moet worden
-
-- add nonesense: "je ziet er mooi uit!", complimenten 
 
 
 ---
 
 # Eindproduct
+
 
 ---
 
