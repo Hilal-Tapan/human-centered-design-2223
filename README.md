@@ -209,14 +209,46 @@ Ze gaf aan dat het erg handig is dat het programma weet wat die heeft en waar he
 
 Ze ging er goed doorheen, 1 heading las de screenreader niet op maar ik denk dat dit een tab probleem is. Dit moet ik nog ff nachecken.
 Ze vond dit idee beter dat het geen cijfertjes meer zijn maar een beschrijving van de locatie. Omdat ze nu als ze een nieuw item koopt ze het makkelijk kan toevoegen of verwijderen en locaties kan aanpassen. Ik heb het idee dat ze het een goed idee vond en de navigatie leek te begrijpen.
-![test]()
+![test](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/IMG_3821.jpg)
 
 
 ### Uitkomsten
 Ik ben erg blij met de uitkomsten van de test. Het leek goed te gaan en Petra was enthousiast. Ze vond de locaties die gegeven worden per item fijn. Ook vond ze het erg fijn dat ze match keuzes krijgt. De vorige keer miste ze dit en dit had ik in haar feedback verwerkt. Ze kan nu dus items matchen met elkaar en ze krijgt locaties hieruit. 
 
 ### Evaluatie
-Ik vond het erg goed gaan. In het begin hadden we wel wat vervelende screenreader issues omdat geen van ons echt bekend was met NVDL en het duurde even met opstarten. Maar uiteindelijk ging het erg goed en heeft ze de test succesvol afgelegd. Ik vind nog wel dat ik sommige dingen nog gebruiksvriendelijker kan maken i.v.m. de screenreader. Dus dit zal ik meenemen uit deze test naar de eindoplevering. 
+Ik vond het erg goed gaan. In het begin hadden we wel wat vervelende screenreader issues omdat geen van ons echt bekend was met NVDL en het duurde even met opstarten. Maar uiteindelijk ging het erg goed en heeft ze de test succesvol afgelegd. Ik vind nog wel dat ik sommige dingen nog gebruiksvriendelijker kan maken i.v.m. de screenreader.Zoals tabindex bij tekst dingetjes en ik had geen beschrijving in de head. Dus dit ga ik meenemenen uit deze test naar de eindoplevering. 
+
+```html
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kleding match</title>
+</head>
+``` 
+Ik heb als iteratie bij alle paginas een title toegevoegd en ik miste dit echt in de toegankelijkheid. Nu kan dit heb toegevoegd op elke pagina werkt de screenreader stukken fijner.
+
+Ook werden sommige zinnen niet meegenomen met de screenreader. Ik begreep niet zo goed waarom maar tabindext verhielp dit probleem:
+
+```html
+<body>
+    <h1>Jouw gekozen items zijn:</h1>
+    <ul>
+        <li tabindex="0">
+                <p>item: ... , kleur: ... . Kast 1, plank 1, derde stapel.</p>
+        </li>  
+
+        <li tabindex="0">
+                <p>item: ... , kleur: ... . Kast 1, plank 2, eerste stapel</p>
+        </li>    
+    </ul>  
+
+    <p tabindex="0">Wat een geweldige combinatie Petra! Je zult er prachtig uitzien</p>
+</body>
+```
+
+Tabindex="0" in HTML wordt gebruikt om de tabvolgorde van elementen bij toetsenbordnavigatie te bepalen. Het geeft aan dat het element focus kan krijgen via het toetsenbord en meedoet aan de standaard tabvolgorde. Dit verbetert de toegankelijkheid van de webpagina voor gebruikers die toetsenbordnavigatie gebruiken. Nadat ik dit toevoegde op de benodigde plekken was het probleem verholpen!
+
 Verder was ik blij dat Petra enthousiast was en vrijwel geen kritiek had over het concept. Dit is groenlicht voor mij om door te gaan met het concept!
 
 </details>
