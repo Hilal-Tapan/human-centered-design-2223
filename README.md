@@ -1,5 +1,5 @@
 # Kleding Matcher voor Petra
-![intro page](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/add-nonesense2.png)
+![intro page](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/IMG_0177.jpg)
 
 In het vak Human Centered Design richten we ons op het ontwerpen van producten die gericht zijn op echte mensen.
 Voor dit vak krijgen we de opdracht om een oplossing te ontwerpen voor iemand met een beperking die tegen een probleem aanloopt. Er zijn verschillende cases en het is belangrijk dat we de gebruiker leren begrijpen en dat diegene centraal staat in het ontwerp. Het doel is dus om ons te verdiepen in de persoon van de gekozen casus en veel te testen met hen.
