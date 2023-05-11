@@ -26,7 +26,7 @@ De oplossing die ik heb ontworpen voor Petra is een digitale kleding matcher. Di
 ---
 
 ## Link prototype
-[Live Link](https://hilal-tapan.github.io/human-centered-design-2223/html/index.html)
+[Live Link!](https://hilal-tapan.github.io/human-centered-design-2223/html/index.html)
 
 ---
 
@@ -202,13 +202,14 @@ Ook leek het ons handig om dit keer tijdens het testen 1 device te gebruiken in 
 
 
 ### Tijdens de test
-We gebruikte de laptop van Ymaro en in het begin vroeg Petra ff hoe wil je dat ik er doorheen ga? Na dit verteld te hebben ging ze er goed doorheen. Wat ik merkte was dat ook deze screenreader de heletijd een rondje maakte in de searchbalk etc. Dit was echt vervelend, maargoed. Dat is gewoon een screenreader dingetje gaf ze aan. 
+We gebruikte de laptop van Ymaro en in het begin vroeg Petra ff hoe wil je dat ik er doorheen ga? Na dit vertelt te hebben ging ze er goed doorheen. Wat ik merkte was dat ook deze screenreader de heletijd een rondje maakte in de searchbalk etc. Dit was echt vervelend, maargoed. Dat is gewoon een screenreader dingetje gaf ze aan. 
 
 Uiteindelijk lukte het en ging ze naar kleuren. Ze ging verder goed door het menu heen.
 Ze gaf aan dat het erg handig is dat het programma weet wat die heeft en waar het ligt. Ook dat die weet wat je bij elkaar kan combineren. Ze vond deze itheratie veel beter dan die nummertjes. Ook vond ze het fijn dat ze nu te horen krijgt welke dingen bij elkaar passen en gecombineerd kunnen worden. Ze vond het erg leuk. Ze had niet echt feedback over het concept. Ik merkte dat sommige screenreader dingetjes vervelend werkte, zoals titels die niet werden opgelezen bijv, of extra informatie wat soms ontbrak. Ditis belangrijk om mee te nemen naar de volgende keer.
 
 Ze ging er goed doorheen, 1 heading las de screenreader niet op maar ik denk dat dit een tab probleem is. Dit moet ik nog ff nachecken.
 Ze vond dit idee beter dat het geen cijfertjes meer zijn maar een beschrijving van de locatie. Omdat ze nu als ze een nieuw item koopt ze het makkelijk kan toevoegen of verwijderen en locaties kan aanpassen. Ik heb het idee dat ze het een goed idee vond en de navigatie leek te begrijpen.
+![test]()
 
 
 ### Uitkomsten
@@ -266,11 +267,6 @@ Ik denk dat Petra dit wel kan waarderen omdat ze zelf ook best wel van de grapje
 ![add nonesense](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/add-nonesense1.png)
 
 ![add nonesense](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/add-nonesense2.png)
-
-
----
-
-# Eindproduct
 
 
 ---
