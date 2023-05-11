@@ -1,14 +1,41 @@
-# Human Centered Design @cmda-minor-web 2022 - 2023
+# Kleding Matcher voor Petra
+- insert plaatje
+
 In het vak Human Centered Design richten we ons op het ontwerpen van producten die gericht zijn op echte mensen.
 Voor dit vak krijgen we de opdracht om een oplossing te ontwerpen voor iemand met een beperking die tegen een probleem aanloopt. Er zijn verschillende cases en het is belangrijk dat we de gebruiker leren begrijpen en dat diegene centraal staat in het ontwerp. Het doel is dus om ons te verdiepen in de persoon van de gekozen casus en veel te testen met hen.
 
 --- 
 
-## Check it out!
+## Onderzoeksvraag
+Hoe kan Petra kleding matchen terwijl zij niet kan zien?
+
+---
+
+## Probleemstelling
+Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk, feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken. Hoe vind je de juiste kleurencombinaties als je het niet kunt zien? Ontwerp een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.
+
+* Kan dus niet zien
+* Kan kleding niet matchen
+* Weet niet welke kleuren bij elkaar passen
+
+---
+
+## Oplossing
+De oplossing die ik heb ontworpen voor Petra is een digitale kleding matcher. Dit zal ze kunnen gebruiken op haar telefoon of laptop met behulp van een screenreader. Petra ziet dus helemaal niks en maakt veel gebruik van de screenreader. Daarom heeft het ontwerp geen design omdat het volledig voor Petra is ontworpen. Ze kan op de homepage ene keuze maken of ze wilt matchen op stijlen of op kleuren. Door deze kleding matcher kan ze kledingstukken aan elkaar matchen zonder dat ze hulp hoeft te vragen aan andere en weet ze zeker dat ze niet overdressed of underdressed is.
+
+---
+
+## Link prototype
 [Live Link](https://hilal-tapan.github.io/human-centered-design-2223/html/index.html)
 
 ---
 
+## Hoe gebruik je dit project?
+Je hebt een screenreader nodig om dit project te gebruiken zoals Petra hem gebruikt. Maar in principe is die ook gewoon klikbaar.
+
+---
+
+# Documentatie van het proces
 ## Plan van aanpak
 Door regelmatig te testen met mijn persoon, zal ik tot een beter en passend ontwerp komen. Door het testen zal ik itheraties kunnen maken om vervolgens weer te testen. Hieruit zal een prototype komen voor het probleem van mijn test persoon.
 
@@ -22,29 +49,8 @@ Petra werkt bij Cliëntenbelang Amsterdam als beleidsmedewerker Toegankelijkheid
 
 ---
 
-## Probleemstelling
-Je representatief kunnen kleding in verschillende omstandigheden is voor iedereen belangrijk, ook voor Petra. Wat is casual, zakelijk, feestelijk of geschikt voor een begrafenis? Petra heeft een kast vol kleren die ze graag op het juiste moment wil kunnen gebruiken. Hoe vind je de juiste kleurencombinaties als je het niet kunt zien? Ontwerp een systeem dat de ordening van de kast voor Petra inzichtelijk maakt op kleur en stijl.
-
-* Kan dus niet zien
-* Kan kleding niet matchen
-* Weet niet welke kleuren bij elkaar passen
-
----
-
-# Installatie
-## Hoe installeer je dit project?
-1. Clone deze repo
-2. That's it!
-
----
-
-## Hoe gebruik je dit project?
-Je hebt een screenreader nodig om dit project te gebruiken zoals Petra hem gebruikt. Maar in principe is die ook gewoon klikbaar.
-
----
-
 ## Features
-* Kan kleding kiezen op basis van gelegenheid
+* Kan kleding kiezen op basis van gelegenheid of kleur
 * Kan kleding matchen met elkaar
 * Kan de locatie zien van de gekozen items
 * Screenreader friendly
@@ -236,13 +242,14 @@ Op basis van al deze informatie heb ik een prototype voor haar gemaakt.
 
 
 ## Ignore conventions
-- TO DO
-- is dit gelukt of mislukt
-- is dit aan bod gekomen in de test
-- aannamens die ik had maybe
-- ze vond het ingewikkeld
-- screenreader? heb je dit beter kunnen doen.
-- screenreader is heel moeilijk om te verbeteremn want je beheerst het niet.
+Bij het ontwerpen voor een grote doelgroep gebruiken we conventies die mensen kennen. Maar als we mensen met een handicap willen opnemen hierin, moeten we deze conventies indien nodig heroverwegen, nadat we hun situaties hebben bestudeerd. Het is bij ignore conventions belangrijk dat we niet het typische doen. Dit kan in dit geval omdat we ontwerpen voor 1 specifiek persoon.
+
+Dit vond ik persoonlijk best wel een lastige principe omdat een screenreader al ontzettend ingewikkeld is, dit verbeteren op een out of the box manier was heel lastig omdat wij zelf niet dagelijks een screenreader gebruiken weet je ook niet zo goed wat er beter kan. Ook tijdens het interview kwam er niet echt iets naar voren van de screenreader specifiek wat Petra vervelend eraan vond. Meer over websites en advertenties die oppoppen etc.
+Ook gaf ze aan dat ze devices als Siri erg vervelend vond dus iets met spraak was ook geen optie in dit geval. 
+
+Wat ik ook merkte uit de tests was dat als iets te ingewikkeld werd ze er stress van kreeg en dat ook uitsprak in haar commentaar tijdens het testen. Ik had eerst namelijk nagedacht over een soort out of the box navigatie menu dat iets anders in elkaar zit dan een regulier navigatie menu. Maar omdat ze dit dus niet fijn leek te vinden leek het me geen goed idee om dit moeilijker te maken dan het zou moeten voor haar. Ze gaf ook in het interview aan dat ze een chaotisch persoon is, dus zo simpel en gestructureerd mogelijk leek me de beste optie.
+
+Wel denk ik dat hierdoor dit principe is mislukt met uitvoering. Simpelweg omdat het in deze situatie erg lastig was.
 
 
 ## Prioritise identity
@@ -251,12 +258,14 @@ Op basis van al deze informatie heb ik een prototype voor haar gemaakt.
  Ik heb voor Petra een kledingmatch app gemaakt waar ik zoveel mogelijk heb gekeken naar haar identiteit. Ik heb geluisterd naar haar wensen. Ze gaf aan dat ze behoorlijk chaotisch is van haarzelf en hierdoor heb ik de app zo gestructureerd mogelijk proberen te maken. 
 
 
-
 ## Add nonsense
 Als nonesense heb ik gekeken naar Petra's persoonlijkheid. Ze is erg outgoing en houd wel van humor. Hierdoor heb ik besloten hier en daar wat grapjes toe te voegen in de app. Bij het maken van een leuke match krijgt ze complimentjes zoals: "Je zal er geweldig uitzien met deze match!". Bij het maken van een lelijke match krijgt ze grapjes van de screenreader zoals: "Vandaag gaan we zo te zien voor de clown look, ook leuk!". 
 
 Ik denk dat Petra dit wel kan waarderen omdat ze zelf ook best wel van de grapjes was, maar ook zocht ze veel validatie en daarom denk ik dat de combinatie van de complimenten en grapjes een goede balans is voor Petra.
 
+![add nonesense]()
+
+![add nonesense]()
 
 
 ---
