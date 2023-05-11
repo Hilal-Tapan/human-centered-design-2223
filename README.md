@@ -209,6 +209,7 @@ Ze gaf aan dat het erg handig is dat het programma weet wat die heeft en waar he
 
 Ze ging er goed doorheen, 1 heading las de screenreader niet op maar ik denk dat dit een tab probleem is. Dit moet ik nog ff nachecken.
 Ze vond dit idee beter dat het geen cijfertjes meer zijn maar een beschrijving van de locatie. Omdat ze nu als ze een nieuw item koopt ze het makkelijk kan toevoegen of verwijderen en locaties kan aanpassen. Ik heb het idee dat ze het een goed idee vond en de navigatie leek te begrijpen.
+
 ![test](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/IMG_3821.jpg)
 
 
