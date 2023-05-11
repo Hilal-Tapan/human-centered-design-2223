@@ -118,6 +118,27 @@ Petra gaf aan hier veel behoefte aan te hebben en dat ze het super zou vinden al
 ### Evaluatie
 Wat wij merkten aan Petra is dat ze onwijs snel is met de screenreader! Ikzelf verstond geen eens wat er werd gezegt en zij wel. Ook gebruikt ze een volledig zwart scherm op haar iPhone, dit is voor batterij besparings modus. Ze gaf aan dat ze graag niet om hulp hoeft te vragen bij andere en het liefste zoveel mogelijk zelf wil doen. Ze heeft een app, wat een AI camera is. Als ze deze richt op dingen volgt er een omschrijving uit een soort AI screenreader. Super gaaf! We merkte wel dat ze moeite had met de camera richten. Thuis heeft ze hier een tentje voor waar ze haar telefoon in kan zetten en de brieven bijvoorbeeld in de tent. Het was heel interessant om Petra te interviewen en ik merk dat ik nu al ontzettend veel nieuws te horen heb gekregen over deze doelgroep en hoe zij te werk gaan dagelijkse dingen.
 
+## Do's en Don'ts tijdens het testen
+Er zijn bepaalde dingen die handig zijn tijdens het testen en bepaalde dingen niet onhandig zijn om te doen juist. 
+Do's:
+- Doorvragen bij het stellen van vragen
+- Wees goed voorbereid
+- Stel duidelijke doelen
+- Creëer een ontspannen en vertrouwelijke sfeer
+- Gebruik open vragen
+- Luister actief
+- Wees flexibel
+
+Don'ts:
+- De testpersoon niet helpen
+- Geen dingen invullen voor de persoon
+- Geen oplossingen geven
+- Voorkom vooringenomenheid
+- Onderbreek niet te vaak
+- Vermijd ja/nee-vragen
+- Oefen geen onnodige druk uit
+- Respecteer privacy en vertrouwelijkheid 
+
 </details>
 
 ---
@@ -313,4 +334,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * https://exclusive-design.vasilis.nl/principles/ 
 * https://docs.google.com/document/d/1oQQ9XDxXS25HKwzruN0ERvfCZs9AkTYnjvbtVu1cjoU/edit# 
 * https://github.com/cmda-minor-web/human-centered-design-2223
-* 
+* https://vasilis.nl/nerd/the-exclusive-design-principles/
+* https://www.traffic-builders.com/7-dos-donts-van-het-ab-testen/
+* https://www.frankwatching.com/archive/2016/07/20/usability-testen-in-guerrilla-stijl-6-dos-donts/ 
+* https://www.kennispleingehandicaptensector.nl/tips-tools/tools/aangeboren-blindheid-of-slechtziendheid 
+
