@@ -61,6 +61,7 @@ De oplossing die ik heb ontworpen voor Petra is een digitale kleding matcher. Di
     - [Tijdens de test](#tijdens-de-test-1)
     - [Uitkomsten](#uitkomsten-1)
     - [Evaluatie](#evaluatie-2)
+    - [Test 3?](#test-3)
 - [Design principles](#design-principles)
   - [Study situation](#study-situation)
   - [Ignore conventions](#ignore-conventions)
@@ -312,7 +313,11 @@ Ook werden sommige zinnen niet meegenomen met de screenreader. Ik begreep niet z
 
 Tabindex="0" in HTML wordt gebruikt om de tabvolgorde van elementen bij toetsenbordnavigatie te bepalen. Het geeft aan dat het element focus kan krijgen via het toetsenbord en meedoet aan de standaard tabvolgorde. Dit verbetert de toegankelijkheid van de webpagina voor gebruikers die toetsenbordnavigatie gebruiken. Nadat ik dit toevoegde op de benodigde plekken was het probleem verholpen!
 
-Verder was ik blij dat Petra enthousiast was en vrijwel geen kritiek had over het concept. Dit is groenlicht voor mij om door te gaan met het concept!
+Verder was ik blij dat Petra enthousiast was en vrijwel geen kritiek had over het concept. Dit is groenlicht voor mij om door te gaan met het concept.
+
+
+### Test 3?
+Voor een volgende test had ik graag de add nonesense willen testen, kijken hoe ze dat zou beleven. Ook zou ik willen proberen via de telefoon het prototype goed te testen.
 
 </details>
 
