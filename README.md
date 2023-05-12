@@ -120,6 +120,7 @@ Petra gaf aan hier veel behoefte aan te hebben en dat ze het super zou vinden al
 ---
 
 # Testen
+![ik](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/Schermafbeelding%202023-05-12%20om%2013.26.45.png)
 
 <details>
   <summary> Introductie interview met Petra </summary>
