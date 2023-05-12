@@ -4,8 +4,6 @@
 In het vak Human Centered Design richten we ons op het ontwerpen van producten die gericht zijn op echte mensen.
 Voor dit vak krijgen we de opdracht om een oplossing te ontwerpen voor iemand met een beperking die tegen een probleem aanloopt. Er zijn verschillende cases en het is belangrijk dat we de gebruiker leren begrijpen en dat diegene centraal staat in het ontwerp. Het doel is dus om ons te verdiepen in de persoon van de gekozen casus en veel te testen met hen.
 
---- 
-
 ## Onderzoeksvraag
 Hoe kan Petra kleding matchen terwijl zij niet kan zien?
 
@@ -29,6 +27,48 @@ De oplossing die ik heb ontworpen voor Petra is een digitale kleding matcher. Di
 [Live Link!](https://hilal-tapan.github.io/human-centered-design-2223/html/index.html)
 
 ---
+
+# Inhoud
+- [Kleding Matcher voor Petra](#kleding-matcher-voor-petra)
+  - [Onderzoeksvraag](#onderzoeksvraag)
+  - [Probleemstelling](#probleemstelling)
+  - [Oplossing](#oplossing)
+  - [Link prototype](#link-prototype)
+- [Inhoud](#inhoud)
+  - [Hoe gebruik je dit project?](#hoe-gebruik-je-dit-project)
+- [Documentatie van het proces](#documentatie-van-het-proces)
+  - [Plan van aanpak](#plan-van-aanpak)
+- [Persona](#persona)
+  - [Petra](#petra)
+  - [Features](#features)
+  - [User Scenario](#user-scenario)
+    - [Who?](#who)
+    - [What?](#what)
+    - [How?](#how)
+    - [Why?](#why)
+- [Testen](#testen)
+  - [Introductie interview met Petra](#introductie-interview-met-petra)
+    - [Evaluatie](#evaluatie)
+  - [Do's en Don'ts tijdens het testen](#dos-en-donts-tijdens-het-testen)
+  - [Test 1](#test-1)
+    - [Voorbereiding](#voorbereiding)
+      - [Test 1 prototype](#test-1-prototype)
+    - [Tijdens de test](#tijdens-de-test)
+    - [Uitkomsten](#uitkomsten)
+    - [Evaluatie](#evaluatie-1)
+  - [Test 2](#test-2)
+    - [Voorbereiding](#voorbereiding-1)
+    - [Tijdens de test](#tijdens-de-test-1)
+    - [Uitkomsten](#uitkomsten-1)
+    - [Evaluatie](#evaluatie-2)
+- [Design principles](#design-principles)
+  - [Study situation](#study-situation)
+  - [Ignore conventions](#ignore-conventions)
+  - [Prioritise identity](#prioritise-identity)
+  - [Add nonsense](#add-nonsense)
+  - [License](#license)
+  - [Bronnen](#bronnen)
+
 
 ## Hoe gebruik je dit project?
 Je hebt een screenreader nodig om dit project te gebruiken zoals Petra hem gebruikt. Maar in principe is die ook gewoon klikbaar.
@@ -302,10 +342,9 @@ Bij het ontwerpen voor een grote doelgroep gebruiken we conventies die mensen ke
 Dit vond ik persoonlijk best wel een lastige principe omdat een screenreader al ontzettend ingewikkeld is, dit verbeteren op een out of the box manier was heel lastig omdat wij zelf niet dagelijks een screenreader gebruiken weet je ook niet zo goed wat er beter kan. Ook tijdens het interview kwam er niet echt iets naar voren van de screenreader specifiek wat Petra vervelend eraan vond. Meer over websites en advertenties die oppoppen etc.
 Ook gaf ze aan dat ze devices als Siri erg vervelend vond dus iets met spraak was ook geen optie in dit geval. 
 
-Wat ik ook merkte uit de tests was dat als iets te ingewikkeld werd ze er stress van kreeg en dat ook uitsprak in haar commentaar tijdens het testen. Ik had eerst namelijk nagedacht over een soort out of the box navigatie menu dat iets anders in elkaar zit dan een regulier navigatie menu. Maar omdat ze dit dus niet fijn leek te vinden leek het me geen goed idee om dit moeilijker te maken dan het zou moeten voor haar. Ze gaf ook in het interview aan dat ze een chaotisch persoon is, dus zo simpel en gestructureerd mogelijk leek me de beste optie.
+Wat ik ook merkte uit de tests was dat als iets te ingewikkeld werd ze er stress van kreeg en dat ook uitsprak in haar commentaar tijdens het testen. Ik had eerst namelijk nagedacht over een soort out of the box navigatie menu dat iets anders in elkaar zit dan een regulier navigatie menu. Maar omdat ze dit dus niet fijn leek te vinden leek het me geen goed idee om dit moeilijker te maken dan het zou moeten voor haar. 
 
-Wel denk ik dat hierdoor dit principe is mislukt met uitvoering. Simpelweg omdat het in deze situatie erg lastig was.
-
+Wat ik wel heb gedaan is de styling weglaten. Petra kan niet zien dus styling was best wel onnodig. Dus door het studeren van haar ben ik erachter gekomen dat deze conventie heb ik aangepast naar mijn persona.
 
 ## Prioritise identity
  Petra is blind sinds geboorte en dit heeft veel effect op haar dagelijkse taken. Een voorbeeld hiervan is kleding matchen, omdat ze het niet kan zien en ook nooit heeft kunnen zien. Ze vind shoppen erg leuk en ze doet dit meestal met iemand erbij die kan zeggen hoe iets eruit zien, daarnaast voelt ze veel aan de kledingstukken met haar handen. Maar alleen shoppen zit hem er niet in voor haar. Ze vind het thuis dus ook erg lastig om kleding te matchen want ze wilt het liefst zoveel mogelijk alleen kunnen doen. 
