@@ -361,7 +361,6 @@ Ik denk dat Petra dit wel kan waarderen omdat ze zelf ook best wel van de grapje
 
 ![add nonesense](https://github.com/Hilal-Tapan/human-centered-design-2223/blob/main/images/add-nonesense2.png)
 
-
 ---
 
 ## License
